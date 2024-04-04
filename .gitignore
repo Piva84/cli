@@ -6,4 +6,5 @@ __pycache__/
 *.py[cod]
 node_modules/
 .github/
-cloudinary_python.txtpa55w0rd.txt
+cloudinary_python.txt
+password.txt
